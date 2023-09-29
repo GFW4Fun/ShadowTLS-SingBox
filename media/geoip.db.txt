@@ -1,0 +1,3 @@
+Download: https://github.com/malikshi/sing-box-geo/releases/latest/download/geoip.db
+
+Move to: \V2rayN\guiConfigs
