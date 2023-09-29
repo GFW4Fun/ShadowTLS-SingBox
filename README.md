@@ -1,6 +1,6 @@
 # ShadowTLS-SingBox
 ShadowTLS-SingBox
-- Auto Installer
+- Auto Installer last sing-box
 - Auto Config generation
 - with geoip rule, block ads
 
