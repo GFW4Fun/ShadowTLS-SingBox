@@ -22,4 +22,4 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/mas
 
 ![](https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/master/media/sing-box-win-client.png)
 
-> pr drag&drop *.json to sing-box.cmd
+> or drag&drop *.json to sing-box.cmd
