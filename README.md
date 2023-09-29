@@ -1,5 +1,8 @@
 # ShadowTLS-SingBox
 ShadowTLS-SingBox
+- Auto Installer
+- Auto Config generation
+- with geoip rule
 
 ## Installer
 ```
