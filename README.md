@@ -13,6 +13,11 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/mas
 - Run sing-box (https://github.com/SagerNet/sing-box/releases)
 
 ![](https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/master/media/Singbox_Client_2.png)
-##
-![](https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/master/media/sing-box-windows-3.png)
+
+
+![](https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/master/media/sing-box-win-client.png)
+> sing-box.cmd
+```
+https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/master/media/sing-box.cmd
+```
 
