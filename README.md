@@ -13,14 +13,13 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/mas
 - Enter a popular domain, non-blocked, TLS1.3 like: apple.com
 - Enter :port
 - Save output to config.json
-- Run sing-box (https://github.com/SagerNet/sing-box/releases)
 
 ![](https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/master/media/Singbox_Client_2.png)
 
+> Download > sing-box.exe > https://github.com/SagerNet/sing-box/releases
+> 
+> Download > sing-box.cmd > https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/master/media/sing-box.cmd
 
 ![](https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/master/media/sing-box-win-client.png)
-> sing-box.cmd
-```
-https://raw.githubusercontent.com/GFW4Fun/ShadowTLS-SingBox/master/media/sing-box.cmd
-```
+
 
