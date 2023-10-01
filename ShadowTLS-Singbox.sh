@@ -164,6 +164,7 @@ EOF
       cat << EOF > "${HOME}/sing-box/restart-sing-box.sh"
 #!/bin/bash
 systemctl restart sing-box.service
+rm "\$HOME/sing-box/geoip.db" "\$HOME/sing-box/geosite.db"
 EOF
       chmod +x "${HOME}/sing-box/restart-sing-box.sh"
       #restart sing-box.service every 2 days
