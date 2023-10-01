@@ -1,6 +1,7 @@
 # ShadowTLS-SingBox
 ShadowTLS-SingBox
 - Auto Installer last sing-box
+- Auto reload and geo update every day
 - Auto Config generation
 - with geoip rule, block ads
 
